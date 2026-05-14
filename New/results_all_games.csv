@@ -1,0 +1,51 @@
+Game,Developer,Year,Genre,Platform,LootBox,Gacha,BattlePass,TimeLimited,PayToWin,MechanicCount,OverallRisk,PredictedRisk,PredictedScore
+Fortnite,Epic Games,2017,Battle Royale,Multi,0,0,1,1,0,2,H,H,0.25
+FIFA Ultimate Team (FC 25),EA Sports,2024,Sports,Multi,1,0,0,1,1,3,H,H,0.6
+Genshin Impact,HoYoverse,2020,RPG,Multi,0,1,0,1,0,2,H,H,0.45
+Counter-Strike 2,Valve,2023,FPS,PC,1,0,0,0,0,1,M,H,0.25
+Apex Legends,Respawn,2019,Battle Royale,Multi,1,0,1,1,0,3,H,H,0.5
+Clash of Clans,Supercell,2012,Strategy,Mobile,0,0,0,0,1,1,M,M,0.2
+Overwatch 2,Blizzard,2022,FPS,Multi,0,0,1,1,0,2,M,H,0.25
+Candy Crush Saga,King,2012,Puzzle,Mobile,0,0,0,0,1,1,M,M,0.2
+League of Legends,Riot Games,2009,MOBA,PC,1,0,1,1,0,3,M,H,0.5
+Star Wars Battlefront II,EA/DICE,2017,FPS,Multi,1,0,0,0,1,2,H,H,0.45
+Honkai: Star Rail,HoYoverse,2023,Turn-Based RPG,Multi,0,1,1,1,0,3,H,H,0.55
+Fate/Grand Order,Aniplex / Type-Moon,2015,RPG,Mobile,0,1,0,1,0,2,H,H,0.45
+Goddess of Victory: NIKKE,Shift Up / Level Infinite,2022,RPG Shooter,Mobile,0,1,1,1,0,3,H,H,0.55
+Zenless Zone Zero,HoYoverse,2024,Action RPG,Multi,0,1,1,1,0,3,H,H,0.55
+Uma Musume Pretty Derby,Cygames,2021,Sports RPG,Mobile,0,1,0,1,0,2,H,H,0.45
+Pokemon TCG Pocket,DeNA / The Pokemon Company,2024,Card Game,Mobile,1,0,0,1,0,2,H,H,0.4
+Arknights,Hypergryph / Yostar,2019,Tower Defence RPG,Mobile,0,1,0,1,0,2,H,H,0.45
+Azur Lane,Manjuu / Yostar,2017,Shoot-em-up RPG,Mobile,0,1,0,1,0,2,H,H,0.45
+Wuthering Waves,Kuro Games,2024,Action RPG,Multi,0,1,1,1,0,3,H,H,0.55
+Call of Duty: Black Ops 6,Activision / Treyarch,2024,FPS,Multi,0,0,1,1,0,2,M,H,0.25
+Valorant,Riot Games,2020,Tactical FPS,PC,0,0,1,1,0,2,M,H,0.25
+Rocket League,Psyonix / Epic Games,2015,Sports,Multi,0,0,1,1,0,2,M,H,0.25
+Dead by Daylight,Behaviour Interactive,2016,Survival Horror,Multi,0,0,1,1,0,2,M,H,0.25
+Fall Guys,Mediatonic / Epic Games,2020,Party,Multi,0,0,1,1,0,2,L,H,0.25
+Brawl Stars,Supercell,2018,Brawler,Mobile,1,0,1,1,0,3,H,H,0.5
+Clash Royale,Supercell,2016,Strategy,Mobile,0,0,1,0,1,2,H,H,0.3
+PUBG: Battlegrounds,Krafton,2017,Battle Royale,Multi,1,0,0,1,0,2,M,H,0.4
+War Thunder,Gaijin Entertainment,2013,Simulation,Multi,1,0,1,1,1,4,H,H,0.7
+Last War: Survival,FirstFun,2023,Strategy,Mobile,0,0,0,1,1,2,H,H,0.35
+Rise of Kingdoms,Lilith Games,2018,Strategy,Mobile,0,0,0,1,1,2,H,H,0.35
+Diablo Immortal,Blizzard / NetEase,2022,Action RPG,Multi,1,0,0,1,1,3,H,H,0.6
+Lords Mobile,IGG,2016,Strategy,Mobile,0,0,1,1,1,3,H,H,0.45
+Dota 2,Valve,2013,MOBA,PC,0,0,0,1,0,1,M,M,0.15
+Destiny 2,Bungie,2017,FPS RPG,Multi,0,0,1,1,0,2,M,H,0.25
+Roblox,Roblox Corporation,2006,Platform,Multi,0,0,0,1,0,1,M,M,0.15
+Minecraft Bedrock,Mojang / Microsoft,2011,Sandbox,Multi,0,0,0,1,0,1,M,M,0.15
+Honor of Kings,TiMi Studio / Tencent,2015,MOBA,Mobile,0,0,1,1,0,2,H,H,0.25
+PUBG Mobile,Krafton / Tencent,2018,Battle Royale,Mobile,1,0,1,1,0,3,H,H,0.5
+Monopoly GO,Scopely,2023,Casual,Mobile,1,0,0,1,0,2,H,H,0.4
+Royal Match,Dream Games,2021,Puzzle,Mobile,0,0,0,0,1,1,M,M,0.2
+Baldur's Gate 3,Larian Studios,2023,RPG,Multi,0,0,0,0,0,0,L,L,0.0
+Elden Ring,FromSoftware / Bandai Namco,2022,Action RPG,Multi,0,0,0,0,0,0,L,L,0.0
+Helldivers 2,Arrowhead / Sony,2024,Co-op Shooter,Multi,0,0,1,0,0,1,L,M,0.1
+Black Myth: Wukong,Game Science,2024,Action RPG,PC,0,0,0,0,0,0,L,L,0.0
+Palworld,Pocketpair,2024,Action RPG,PC,0,0,0,0,0,0,L,L,0.0
+Cyberpunk 2077,CD Projekt Red,2020,Action RPG,Multi,0,0,0,0,0,0,L,L,0.0
+Stardew Valley,ConcernedApe,2016,Simulation,Multi,0,0,0,0,0,0,L,L,0.0
+Hades II,Supergiant Games,2024,Roguelike,PC,0,0,0,0,0,0,L,L,0.0
+Among Us,Innersloth,2018,Party,Multi,0,0,0,1,0,1,L,M,0.15
+Pokemon GO,Niantic / The Pokemon Company,2016,AR,Mobile,1,0,0,1,1,3,M,H,0.6
